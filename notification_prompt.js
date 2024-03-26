@@ -5,5 +5,4 @@ clevertap.notifications.push({
   "rejectButtonText":'No thanks',
   "okButtonColor":'#f28046',
  "serviceWorkerPath": "clevertap_sw.js"
-  
-});
+ });
